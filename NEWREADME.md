@@ -34,12 +34,14 @@ A comprehensive waste management system built with the MERN stack (MongoDB, Expr
 - **Dashboard**: Personalized overview of all pickup activities
 
 ## For Drivers
+![driver Screenshot](./assets/drivert%20page.png)
 - **View Assignments**: Access assigned pickup requests
 - **Update Location**: Real-time GPS location sharing via Socket.io
 - **Profile Management**: Update personal and vehicle information
 - **Status Updates**: Mark pickups as completed or in-progress
 
 ## For Administrators
+![Admin Screenshot](./assets/admin%20page.png)
 - **Analytics Dashboard**: Comprehensive statistics and insights
   - Total pickups, drivers, and residents
   - Completion rates and pending requests
